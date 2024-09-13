@@ -2,11 +2,13 @@
 A Archive with proofs, for 3AM Studios, which released Apps on the microsoft store and cheated all its customers (including me) by removing all their apps and support mails.
 
 # ATube (aka. Awesome Tube):
-Description: YouTube App with inbuilt downloader, many features AD blocker, modern design and more <br>
-US Link: https://apps.microsoft.com/detail/9nblggh69mg4?hl=en-US&gl=US <br>
-GB Link (Mirror): https://apps.microsoft.com/detail/9NBLGGH69MG4?hl=en-GB&gl=IN <br>
+Description: YouTube App with inbuilt downloader, many features AD blocker, modern design and more 
+US Link: https://apps.microsoft.com/detail/9nblggh69mg4?hl=en-US&gl=US
+GB Link (Mirror): https://apps.microsoft.com/detail/9NBLGGH69MG4?hl=en-GB&gl=IN 
 US Link (Mirror): https://www.microsoft.com/en-us/p/awesome-tube-youtube-player/9nblggh69mg4
 COST: 9,99 EUR 
+
+<br> 
 
 # ZTwitch (aka. Zero Twitch App): 
 Description: Twitch App, modern features adblocker, modern design, etc. 
@@ -16,7 +18,6 @@ COST: 12,60 EUR
 # YouTube Downloader:
 Description: A video Downloader for yt 4k, full HD.
 NO LINKS AVAILABLE 
-
 COST: 15-30 EUR
 
 LAST RECORDED UPDATE OF ALL APPS: Jan 31, 2023
