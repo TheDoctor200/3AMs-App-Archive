@@ -1,6 +1,6 @@
 # 3AMs-App-Archive
 
-An archive with proof for 3AM Studios, which released apps on the Microsoft Store and cheated all its customers (including me) by removing all their apps and support mails.
+An archive with proof for 3AM Studios, which released apps on the Microsoft Store and left all its customers (including me) by removing all their apps and support mails.
 
 ## ATube (aka. Awesome Tube)
 
